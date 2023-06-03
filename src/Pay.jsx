@@ -24,7 +24,7 @@ const Pay = () => {
 
   return (
     <div>
-      <button onClick={redy}>Pay</button>
+      <button onClick={redy}>Make Payment</button>
     </div>
   );
 }
